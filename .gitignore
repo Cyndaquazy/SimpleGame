@@ -50,3 +50,9 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+/bin
+
+# Eclipse
+# =========================
+.project
+.classpath
